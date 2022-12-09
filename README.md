@@ -10,7 +10,7 @@ Tmap-echarts是在[天地图](http://lbs.tianditu.gov.cn/api/js4.0/guide.html)4.
 
 如果见过这个：https://echarts.apache.org/examples/zh/editor.html?c=map-usa-pie 那应该很好理解该插件。
 
-![效果图](https://pic.imgdb.cn/item/6392ea3db1fccdcd369cee0d.gif)
+![效果图](https://i.328888.xyz/2022/12/09/fG5AE.gif)
 
 
 
@@ -21,9 +21,6 @@ npm i tmap-echarts -S
 ```
 
 # 在线示例
-
-<iframe src="https://codesandbox.io/embed/tmap-echarts-demo-s71ieb?autoresize=1&fontsize=14&hidenavigation=1&theme=dark&view=preview"style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"title="tmap-echarts-demo"allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
-
 
 [![Edit tmap-echarts-demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/tmap-echarts-demo-s71ieb?fontsize=14&hidenavigation=1&theme=dark&view=preview)
 
