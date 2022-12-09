@@ -1,0 +1,15 @@
+{
+  "name": "tmap-echarts",
+  "version": "1.0.0",
+  "description": "在天地图4.0地图上展示echarts的图表",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "echarts": "^5.4.0",
+    "echarts-gl": "^2.0.9"
+  }
+}
