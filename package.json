@@ -2,14 +2,26 @@
   "name": "tmap-echarts",
   "version": "1.0.0",
   "description": "在天地图4.0地图上展示echarts的图表",
+  "keywords": [
+    "天地图echarts",
+    "echarts",
+    "天地图",
+    "echarts-gl",
+    "天地图echarts-gl"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "RandomBoolean",
+  "license": "MIT",
   "dependencies": {
     "echarts": "^5.4.0",
     "echarts-gl": "^2.0.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ymzcode/tmap-echarts"
+  },
+  "homepage": "https://github.com/ymzcode/tmap-echarts#readme"
 }
