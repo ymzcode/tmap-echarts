@@ -1,6 +1,6 @@
 {
   "name": "tmap-echarts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "在天地图4.0地图上展示echarts的图表",
   "keywords": [
     "天地图echarts",
